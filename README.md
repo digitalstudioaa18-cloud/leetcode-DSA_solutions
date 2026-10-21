@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0268-missing-number/) | Easy |
@@ -44,6 +45,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0268-missing-number/) | Easy |
@@ -54,6 +56,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -66,4 +69,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
