@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -41,6 +42,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -48,6 +50,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
