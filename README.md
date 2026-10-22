@@ -83,6 +83,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0709-to-lower-case/) | Easy |
