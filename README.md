@@ -81,4 +81,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 <!---LeetCode Topics End-->
