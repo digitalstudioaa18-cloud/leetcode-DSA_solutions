@@ -77,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
