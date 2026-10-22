@@ -58,6 +58,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -82,6 +83,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
