@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0075-sort-colors](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -85,6 +86,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -97,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
