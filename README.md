@@ -80,6 +80,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0709-to-lower-case](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/digitalstudioaa18-cloud/leetcode-DSA_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 <!---LeetCode Topics End-->
